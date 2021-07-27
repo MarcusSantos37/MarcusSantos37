@@ -8,7 +8,7 @@ _“Success is the sum of small efforts, repeated day-in and day-out.”_
 I'm a front-end developer passionate about what I do, creating interfaces for me is an adventure, and every day I try to specialize myself more and more.
 </br>
 
-🚀 I have experience with: HTML, CSS, Javascript and Typescript.
+🚀 I have experience with: HTML, CSS and Javascript.
 
 - Responsive Layouts
 - User experience (Functionality and Usability)
