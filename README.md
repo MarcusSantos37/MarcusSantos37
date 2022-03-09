@@ -8,14 +8,7 @@ _“Success is the sum of small efforts, repeated day-in and day-out.”_
 I'm a front-end developer passionate about what I do, creating interfaces for me is an adventure, and every day I try to specialize myself more and more.
 </br>
 
-🚀 I have experience with: HTML, CSS and Javascript.
-
-- Responsive Layouts
-- User experience (Functionality and Usability)
-- Data visualization in graphs and tables
-- API integration
-
-Libraries and Frameworks: ReactJS, Next.js, Material UI, React Hook Form, Moment, Styled Components, Tailwind CSS, Bootstrap, ApexCharts.
+Main skills: ReactJS, Next.js, Typescript, Context API, Hooks, Chakra UI, Material UI, Unform, React Hook Form, Moment, Styled Components, Tailwind CSS, Bootstrap, ApexCharts.
 
 💬 Hobbies: Cycling, games and good musics.
 
