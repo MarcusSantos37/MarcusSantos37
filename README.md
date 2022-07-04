@@ -1,6 +1,6 @@
 # About me
 
-_“Success is the sum of small efforts, repeated day-in and day-out.”_
+_“Success is the sum of small efforts, repeated day after day.”_
 <br>
 
 <img src="./images/working.png" align="right" width="400" height="400" />
