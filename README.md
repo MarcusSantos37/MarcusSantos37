@@ -12,10 +12,9 @@ My main focus is to develop high quality projects aiming to deliver the best exp
 My goal is to contribute significantly to the company by delivering my knowledge; as well as evolve professionally by learning from other developers.
 </br>
 
-Main skills: ReactJS, Next.js, Typescript, Context API, Hooks, Chakra UI, Material UI, Unform, React Hook Form, Moment, Styled Components, Tailwind CSS, Bootstrap, ApexCharts.
+Soft skills: Self-Taught, Proactivity, Resilience, Communication and Team Work.
 
-💬 Hobbies: Cycling, games and good musics.
-
+Hard skills: HTML, CSS and Javascript, ReactJS, Next.js, Typescript, Context API, Hooks, Forms, UI Libs, CSS Frameworks.
 <br/>
 
  <div>
