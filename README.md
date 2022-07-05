@@ -5,7 +5,11 @@ _“Success is the sum of small efforts, repeated day after day.”_
 
 <img src="./images/working.png" align="right" width="400" height="400" />
 
-I'm a front-end developer passionate about what I do, creating interfaces for me is an adventure, and every day I try to specialize myself more and more.
+I am a front-end developer with a passion for what I do, creating interfaces for me is an adventure, and every day I seek to specialize more and more.
+
+My main focus is to develop high quality projects aiming to deliver the best experience to the end user.
+
+My goal is to contribute significantly to the company by delivering my knowledge; as well as evolve professionally by learning from other developers.
 </br>
 
 Main skills: ReactJS, Next.js, Typescript, Context API, Hooks, Chakra UI, Material UI, Unform, React Hook Form, Moment, Styled Components, Tailwind CSS, Bootstrap, ApexCharts.
